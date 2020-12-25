@@ -1,0 +1,10 @@
+Abc.MoqComplete.Rider
+com.alayouni.ansiHighlight
+com.intellij.ideolog
+com.intellij.kubernetes
+com.intellij.plugin.adernov.powershell
+com.jetbrains.rider.fsharp
+com.jetbrains.sh
+com.microsoft.vso.idea
+mobi.hsz.idea.gitignore
+org.ermadan.kafkalytic
